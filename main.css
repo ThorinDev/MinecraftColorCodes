@@ -3,82 +3,82 @@
 	Minecraft Color Codes
 */
 
-Black {
+.Black {
 	color: #000000;
 	background-color: #000000;
 }
 
-dBlue {
+.dBlue {
 	color: #0000AA;
 	background-color: #00002A;
 }
 
-dGreen {
+.dGreen {
 	color: #00AA00;
 	background-color: #002A00;
 }
 
-dAqua {
+.dAqua {
 	color: #00AAAA;
 	background-color: #002A2A;
 }
 
-dRed {
+.dRed {
 	color: #AA0000;
 	background-color: #2A0000;
 }
 
-dPurple {
+.dPurple {
 	color: #AA00AA;
 	background-color: #2A002A;
 }
 
-Gold {
+.Gold {
 	color: #FFAA00;
 	background-color: #2A2A00;
 }
 
-Gray {
+.Gray {
 	color: #AAAAAA;
 	background-color: #2A2A2A;
 }
 
-dGray {
+.dGray {
 	color: #555555;
 	background-color: #151515
 }
 
-Blue {
+.Blue {
 	color: #5555FF;
 	background-color: #15153F
 }
 
-Green {
+.Green {
 	color: #55FF55;
 	background-color: #153F15
 }
 
-Aqua {
+.Aqua {
 	color: #55FFFF;
 	background-color: #153F3F
 }
 
-Red {
+.Red {
 	color: #FF5555;
 	background-color: #3F1515
 }
 
-lPurple {
+.lPurple {
 	color: #FF55FF;
 	background-color: #3F153F
 }
 
-Yellow {
+.Yellow {
 	color: #FFFF55;
 	background-color: #3F3F15
 }
 
-White {
+.White {
 	color: #FFFFFF;
 	background-color: #3F3F3F
 }
