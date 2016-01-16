@@ -5,64 +5,80 @@
 
 Black {
 	color: #000000;
+	background-color: #000000;
 }
 
 dBlue {
 	color: #0000AA;
+	background-color: #00002A;
 }
 
 dGreen {
 	color: #00AA00;
+	background-color: #002A00;
 }
 
 dAqua {
 	color: #00AAAA;
+	background-color: #002A2A;
 }
 
 dRed {
 	color: #AA0000;
+	background-color: #2A0000;
 }
 
 dPurple {
 	color: #AA00AA;
+	background-color: #2A002A;
 }
 
 Gold {
 	color: #FFAA00;
+	background-color: #2A2A00;
 }
 
 Gray {
 	color: #AAAAAA;
+	background-color: #2A2A2A;
 }
 
 dGray {
 	color: #555555;
+	background-color: #151515
 }
 
 Blue {
 	color: #5555FF;
+	background-color: #15153F
 }
 
 Green {
 	color: #55FF55;
+	background-color: #153F15
 }
 
 Aqua {
 	color: #55FFFF;
+	background-color: #153F3F
 }
 
 Red {
 	color: #FF5555;
+	background-color: #3F1515
 }
 
 lPurple {
 	color: #FF55FF;
+	background-color: #3F153F
 }
 
 Yellow {
 	color: #FFFF55;
+	background-color: #3F3F15
 }
 
 While {
 	color: #FFFFFF;
+	background-color: #3F3F3F
 }
