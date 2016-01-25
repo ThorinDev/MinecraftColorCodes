@@ -1,21 +1,21 @@
 #Minecraft Color Codes
 Just my little collection of hex codes for all the indivdual minecraft colors.
 
-Minecraft Color Code  | CSS Class | Essentials Color Codes
-------------- | ------------- | -------------
-§0|Black|&0
-§1|darkBlue|&1
-§2|darkGreen|&2
-§3|darkAqua|&3
-§4|darkRed|&4
-§5|darkPurple|&5
-§6|Gold|&6
-§7|Gray|&7
-§8|dGray|&8
-§9|Blue|&9
-§a|Green|&a
-§b|Aqua|&b
-§c|Red|&c
-§d|lightPurple|&d
-§e|Yellow|&e
-§f|White|&f
+Minecraft Color Code  | CSS Class
+------------- | -------------
+§0|Black
+§1|darkBlue
+§2|darkGreen
+§3|darkAqua
+§4|darkRed
+§5|darkPurple
+§6|Gold
+§7|Gray
+§8|dGray
+§9|Blue
+§a|Green
+§b|Aqua
+§c|Red
+§d|lightPurple
+§e|Yellow
+§f|White
