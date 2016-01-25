@@ -11,7 +11,7 @@ Minecraft Color Code  | CSS Class
 §5|darkPurple
 §6|Gold
 §7|Gray
-§8|dGray
+§8|darkGray
 §9|Blue
 §a|Green
 §b|Aqua
