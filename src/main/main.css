@@ -4,22 +4,22 @@
 	v1.6
 */
 
-.Black {
+.black {
 	color: #000000;
 	background-color: #000000;
 }
 
-.darkBlue {
+.darkblue {
 	color: #0000AA;
 	background-color: #00002A;
 }
 
-.darkGreen {
+.darkgreen {
 	color: #00AA00;
 	background-color: #002A00;
 }
 
-.darkAqua {
+.darkaqua {
 	color: #00AAAA;
 	background-color: #002A2A;
 }
@@ -29,57 +29,57 @@
 	background-color: #2A0000;
 }
 
-.darkPurple {
+.darkpurple {
 	color: #AA00AA;
 	background-color: #2A002A;
 }
 
-.Gold {
+.gold {
 	color: #FFAA00;
 	background-color: #2A2A00;
 }
 
-.Gray {
+.grey {
 	color: #AAAAAA;
 	background-color: #2A2A2A;
 }
 
-.darkGray {
+.darkgrey {
 	color: #555555;
 	background-color: #151515
 }
 
-.Blue {
+.blue {
 	color: #5555FF;
 	background-color: #15153F
 }
 
-.Green {
+.green {
 	color: #55FF55;
 	background-color: #153F15
 }
 
-.Aqua {
+.aqua {
 	color: #55FFFF;
 	background-color: #153F3F
 }
 
-.Red {
+.red {
 	color: #FF5555;
 	background-color: #3F1515
 }
 
-.lightPurple {
+.lightpurple {
 	color: #FF55FF;
 	background-color: #3F153F
 }
 
-.Yellow {
+.yellow {
 	color: #FFFF55;
 	background-color: #3F3F15
 }
 
-.White {
+.white {
 	color: #FFFFFF;
 	background-color: #3F3F3F
 }
