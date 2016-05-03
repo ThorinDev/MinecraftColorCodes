@@ -4,82 +4,82 @@
 	v1.6
 */
 
-.black {
+.mcblack {
 	color: #000000;
 	background-color: #000000;
 }
 
-.darkblue {
+.mcdarkblue {
 	color: #0000AA;
 	background-color: #00002A;
 }
 
-.darkgreen {
+.mcdarkgreen {
 	color: #00AA00;
 	background-color: #002A00;
 }
 
-.darkaqua {
+.mcdarkaqua {
 	color: #00AAAA;
 	background-color: #002A2A;
 }
 
-.darkRed {
+.mcdarkRed {
 	color: #AA0000;
 	background-color: #2A0000;
 }
 
-.darkpurple {
+.mcdarkpurple {
 	color: #AA00AA;
 	background-color: #2A002A;
 }
 
-.gold {
+.mcgold {
 	color: #FFAA00;
 	background-color: #2A2A00;
 }
 
-.grey {
+.mcgrey {
 	color: #AAAAAA;
 	background-color: #2A2A2A;
 }
 
-.darkgrey {
+.mcdarkgrey {
 	color: #555555;
 	background-color: #151515
 }
 
-.blue {
+.mcblue {
 	color: #5555FF;
 	background-color: #15153F
 }
 
-.green {
+.mcgreen {
 	color: #55FF55;
 	background-color: #153F15
 }
 
-.aqua {
+.mcaqua {
 	color: #55FFFF;
 	background-color: #153F3F
 }
 
-.red {
+.mcred {
 	color: #FF5555;
 	background-color: #3F1515
 }
 
-.lightpurple {
+.mclightpurple {
 	color: #FF55FF;
 	background-color: #3F153F
 }
 
-.yellow {
+.mcyellow {
 	color: #FFFF55;
 	background-color: #3F3F15
 }
 
-.white {
+.mcwhite {
 	color: #FFFFFF;
 	background-color: #3F3F3F
 }
