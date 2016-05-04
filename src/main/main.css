@@ -4,82 +4,82 @@
 	v1.7
 */
 
-.mcblack {
+.mcblack, .\&0 {
 	color: #000000;
 	background-color: #000000;
 }
 
-.mcdarkblue {
+.mcdarkblue, .\&1 {
 	color: #0000AA;
 	background-color: #00002A;
 }
 
-.mcdarkgreen {
+.mcdarkgreen, .\&2 {
 	color: #00AA00;
 	background-color: #002A00;
 }
 
-.mcdarkaqua {
+.mcdarkaqua, .\&3 {
 	color: #00AAAA;
 	background-color: #002A2A;
 }
 
-.mcdarkRed {
+.mcdarkRed, .\&4 {
 	color: #AA0000;
 	background-color: #2A0000;
 }
 
-.mcdarkpurple {
+.mcdarkpurple, .\&5 {
 	color: #AA00AA;
 	background-color: #2A002A;
 }
 
-.mcgold {
+.mcgold, .\&6 {
 	color: #FFAA00;
 	background-color: #2A2A00;
 }
 
-.mcgrey {
+.mcgrey, .\&7 {
 	color: #AAAAAA;
 	background-color: #2A2A2A;
 }
 
-.mcdarkgrey {
+.mcdarkgrey, .\&8 {
 	color: #555555;
 	background-color: #151515;
 }
 
-.mcblue {
+.mcblue, .\&9 {
 	color: #5555FF;
 	background-color: #15153F;
 }
 
-.mcgreen {
+.mcgreen, .\&a {
 	color: #55FF55;
 	background-color: #153F15;
 }
 
-.mcaqua {
+.mcaqua, .\&b {
 	color: #55FFFF;
 	background-color: #153F3F;
 }
 
-.mcred {
+.mcred, .\&c {
 	color: #FF5555;
 	background-color: #3F1515;
 }
 
-.mclightpurple {
+.mclightpurple, .\&d {
 	color: #FF55FF;
 	background-color: #3F153F;
 }
 
-.mcyellow {
+.mcyellow, .\&e {
 	color: #FFFF55;
 	background-color: #3F3F15;
 }
 
-.mcwhite {
+.mcwhite, .\&f {
 	color: #FFFFFF;
 	background-color: #3F3F3F;
 }
